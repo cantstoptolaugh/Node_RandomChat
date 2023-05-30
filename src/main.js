@@ -55,7 +55,7 @@ app.ws.use(
     )
 
     ctx.websocket.on('message', async (data) => {
-      /** @type {Chat}*/
+      /** @type {chat}*/
       // @ts-ignore
       const chat = JSON.parse(data)
 
