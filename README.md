@@ -1,9 +1,6 @@
-# Node_RandomChat
-Node.js Random Chat Site
+# Node.js RandomChat
 
-설치
-git clone this code
-
+터미널로 프로젝트 루트로 오신 후 다음을 실행해 주세요.
+```bash
 npm install
-
-npm run server
+```
